@@ -1,0 +1,58 @@
+body {
+	background-color: aliceblue;
+}
+
+.weekOne {
+	background-color: aquamarine;
+	color: darkslategrey;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: .9em;
+	line-height: 1.2;
+	padding: 2px 3px 4px 5px;
+	border: 1px solid darkslategrey;
+	border-radius: 5%;
+}
+
+.weekTwo {
+	background-color: mediumspringgreen;
+	color: darkgreen;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 1.2em;
+	line-height: 1.5;
+	padding: 5px;
+	border: 2px dotted darkgreen;
+	border-radius: 50%;
+}
+
+.weekThree {
+	background-color: lightseagreen;
+	color: midnightblue;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 1em;
+	line-height: 2;
+	padding: 10px 2px;
+	border: 1px dashed midnightblue;
+	border-radius: 3%;
+}
+
+.weekFour {
+	background-color: plum;
+	color: indigo;
+	font-family: Georgia, serif;
+	font-size: .5em;
+	line-height: 4;
+	padding: 3px 20px;
+	border: 3px solid indigo;
+	border-radius: 10%;
+}
+
+.weekFive {
+	background-color: thistle;
+	color: darkorchid;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 1.3em;
+	line-height: 1.8;
+	padding: 10px;
+	border: 7px dashed darkorchid;
+	border-radius: 25%;
+}
